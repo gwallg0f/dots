@@ -1,0 +1,6 @@
+//@theme "~/.local/share/rofi/themes/rounded-blue-dark.rasi"
+//@theme "~/.local/share/rofi/themes/spotlight-dark.rasi"
+//@theme "~/.config/rofi/runner.rasi"
+//@theme "~/.config/rofi/powermenu.rasi"
+
+@theme "/home/gwallgof/.local/share/rofi/themes/spotlight-dark.rasi"
